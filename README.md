@@ -14,11 +14,17 @@
 ## Data Cleaning
 
 The raw dataset contained several data quality issues that were cleaned before analysis:
+
 Standardized date formats.(eg. 02/07/2002,09-05-2023)
+
 Standardized and Trimmed extra spaces from text fields.(product,category,region columns)
+
 Validated negative and invalid values.(quantity column)
+
 # Handled missing values:
+
 Missing Discount values replaced with 0.
+
 Missing Unit Cost values replaced using the average Unit Cost.
 
 ## Calculated Columns
