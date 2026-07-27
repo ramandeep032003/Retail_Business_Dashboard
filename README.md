@@ -21,7 +21,7 @@ Standardized and Trimmed extra spaces from text fields.(product,category,region 
 
 Validated negative and invalid values.(quantity column)
 
-# Handled missing values:
+*Handled missing values:*
 
 Missing Discount values replaced with 0.
 
