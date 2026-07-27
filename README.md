@@ -15,7 +15,7 @@
 
 The raw dataset contained several data quality issues that were cleaned before analysis:
 
-Standardized date formats.(eg. 02/07/2002,09-05-2023)
+Standardized date formats.(eg. 476550)
 
 Standardized and Trimmed extra spaces from text fields.(product,category,region columns)
 
