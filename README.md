@@ -5,7 +5,8 @@
 
 ## Dataset
 
+  1.Rows: ~7,000
  
- ***1.Rows: ~7,000
    2.Tool Used: Microsoft Excel Features inside WPS
-   3.Domain: Retail Sales***
+   
+   3.Domain: Retail Sales.
