@@ -43,12 +43,12 @@ Total Revenue
 Total Profit
 Average Rating
 Average Delivery Days
-# Profit vs Revenue by Category
-# Revenue by Quarters of Year
-# Top 5 Products by Revenue
-# Profit by Membership Type
-# Customer Distribution by Returning Numbers
-# Interactive Filters (Slicers).
+Profit vs Revenue by Category
+Revenue by Quarters of Year
+Top 5 Products by Revenue
+Profit by Membership Type
+Customer Distribution by Returning Numbers
+Interactive Filters (Slicers).
 
 ## Key Insights
 Electronics generated the highest overall revenue and profit.
